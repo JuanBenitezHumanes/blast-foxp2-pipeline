@@ -1,0 +1,3 @@
+query_id	num_hits	num_subjects	pidentity_min	pidentity_max	pidentity_mean	alignment_length_min	alignment_length_max	alignment_length_mean	e_value_min	e_value_max	e_value_mean	bitscore_min	bitscore_max	bitscore_mean
+NC_000007.14:114086327-114693765	3144	25	69.69	100.00	90.77	28.00	3652.00	100.22	0.00e+00	2.10e-01	1.91e-02	52.80	3304.00	90.42
+NC_060931.1:115401144-116008457	2148	24	69.69	100.00	89.61	28.00	3652.00	127.09	0.00e+00	2.10e-01	2.48e-02	52.80	3304.00	104.30
