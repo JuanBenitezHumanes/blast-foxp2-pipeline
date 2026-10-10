@@ -1,0 +1,27 @@
+# Input data (large FASTA files, downloaded separately - see data/README.md)
+data/*
+!data/README.md
+
+# BLAST database files
+*.ndb
+*.nhr
+*.nin
+*.njs
+*.nog
+*.nos
+*.not
+*.nsq
+*.ntf
+*.nto
+
+# Large / intermediate outputs and logs
+results/blast_raw.tsv
+results/blast_formatted.tsv
+logs/
+
+# Editor and OS files
+.vscode/
+.Rhistory
+.RData
+__pycache__/
+.DS_Store
